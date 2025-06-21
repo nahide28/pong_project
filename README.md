@@ -45,7 +45,7 @@ python pong.py
 
 ## Demo Video
 
-Watch the [demo video here](#)
+Watch the [https://youtu.be/zzFZ0vKjsCw](#)
 
 ## Developer
 
