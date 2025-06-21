@@ -44,8 +44,7 @@ python pong.py
 - OOP class structure: `Ball`, `Paddle`, `Scoreboard`, `Game`
 
 ## Demo Video
-
-Watch the [https://youtu.be/zzFZ0vKjsCw](#)
+Watch the video on [YouTube](https://youtu.be/zzFZ0vKjsCw)
 
 ## Developer
 
